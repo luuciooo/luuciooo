@@ -43,10 +43,15 @@ Me interesa construir soluciones escalables, bien estructuradas y mantenibles.
 
 ### Frontend
 - React
-- Vite
-- JavaScript
+- Angular
+- Vue
+- Next.js
 - TypeScript
+- Redux
 - Tailwind CSS
+- Bootstrap
+- Material UI (MUI)
+- JavaScript
 
 ### Herramientas
 - Docker
